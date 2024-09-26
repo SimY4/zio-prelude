@@ -11,7 +11,7 @@ import scala.scalanative.sbtplugin.ScalaNativePlugin.autoImport._
 
 object BuildHelper {
   val Scala212: String = "2.12.19"
-  val Scala213: String = "2.13.14"
+  val Scala213: String = "2.13.15"
   val Scala3: String   = "3.3.3"
 
   private val stdOptions = Seq(
